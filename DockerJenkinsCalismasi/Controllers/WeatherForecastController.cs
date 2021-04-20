@@ -13,7 +13,7 @@ namespace DockerJenkinsCalismasi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezingg", "Bracingg", "Chillyy", "Cooll", "Mildd", "Warmm", "Balmyy", "Hott", "Swelteringg", "Scorchingg"
+            "Freezingg", "Bracingg", "Chillyy", "Cooll", "Mildd", "Warmm", "Balmyy", "Hott", "Swelteringg", "Scorchinggg"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;

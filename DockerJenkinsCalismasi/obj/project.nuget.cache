@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1owt+P16KihXCkXNA8CEq2mGiduQww4IsW+qo9hKtO1JB/Z70OC+tsdLNLfNGvAib5Wj+TtOZPNUYO9G9qc3dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Çalışmalarım\\Docker Çalışmalarım\\DockerJenkinsCalismasiApi\\DockerJenkinsCalismasi\\DockerJenkinsCalismasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
